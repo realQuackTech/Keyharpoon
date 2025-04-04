@@ -1,0 +1,27 @@
+{
+  "packages": [
+    {
+      "name": "KeYHarPon",
+      "maintainer": "QuackTech Org.",
+      "websiteURL": "https://quacktech.tech",
+      "email": "contact-quacktech@proton.me",
+      "platforms": [
+        {
+          "name": "KeyHarpoon Board",
+          "architecture": "avr",
+          "version": "1.8.6",
+          "category": "Contributed",
+          "url": "https://github.com/realQuackTech/Keyharpoon/raw/refs/heads/main/KeyHarpoon-1.8.6.zip",
+          "archiveFileName": "KeyHarpoon-1.8.6.zip",
+          "checksum": "SHA-256:85EDE3412B689DAE020197833B30101D54BDD9BD214FC679C4B07F96011EC230",
+          "size": "17865999",
+          "boards": [
+            {
+              "name": "KeyHarpoon V.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

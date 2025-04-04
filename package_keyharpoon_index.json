@@ -11,7 +11,7 @@
           "architecture": "avr",
           "version": "1.8.6",
           "category": "Contributed",
-          "url": "https://github.com/realQuackTech/Keyharpoon/raw/refs/heads/main/KeyHarpoon-1.8.6.zip",
+          "url": "https://github.com/realQuackTech/Keyharpoon/releases/download/package/KeyHarpoon-1.8.6.zip",
           "archiveFileName": "KeyHarpoon-1.8.6.zip",
           "checksum": "SHA-256:85EDE3412B689DAE020197833B30101D54BDD9BD214FC679C4B07F96011EC230",
           "size": "17865999",

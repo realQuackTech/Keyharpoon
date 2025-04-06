@@ -87,7 +87,7 @@ Through this interface, developers can:
 - Define custom startup behaviors tailored to the hardware.
 
 
-![ESP8266 Dev Board]([https://i.hizliresim.com/kui9bvu.png](https://raw.githubusercontent.com/realQuackTech/Keyharpoon/refs/heads/main/images/hardware.png))
+![ESP8266 Dev Board](https://raw.githubusercontent.com/realQuackTech/Keyharpoon/refs/heads/main/images/hardware.png)
 
 
 ### ESP8266 USB Communication
@@ -114,11 +114,11 @@ With the switch configurations below, you can selectively access a specific modu
 
 **Default(10101101)**
 
-![qt]([https://i.hizliresim.com/nsnurf0.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw2.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw2.png?raw=true)
 
 
 **Atmega(10101010)**
-![qt]([https://i.hizliresim.com/kf4ykqm.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw3.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw3.png?raw=true)
 
 
 
@@ -212,14 +212,14 @@ If you wish to save your payload and set it for automatic execution, you can fin
 
 
 
-![qt]([https://i.hizliresim.com/s5pia8f.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/file.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/file.png?raw=true)
 
 ## Settings Page
 
 
 
 
-![qt]([https://i.hizliresim.com/m9ysv2o.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/set.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/set.png?raw=true)
 
 
 ### 📡 OTA (Over The Air) Update Support
@@ -227,7 +227,7 @@ If you wish to save your payload and set it for automatic execution, you can fin
 With the OTA (Over The Air) option located in the top-right corner, you can enter your current SSID and password to log in.
 
 
-![qt]([https://i.hizliresim.com/adpwncj.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/ota.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/ota.png?raw=true)
 
 The KeyHarpoon device has OTA (Over The Air) support through the ESP module. This allows you to easily update your device via a web interface without the need for any additional software.
 

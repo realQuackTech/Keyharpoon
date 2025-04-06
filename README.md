@@ -202,7 +202,7 @@ The usage is quite simple and almost identical to similar counterparts. Here are
 
 
 
-![qt]([https://i.hizliresim.com/7jcl0md.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/enter.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/enter.png?raw=true)
 
 ### Note on Timing
 

@@ -109,7 +109,7 @@ With the switch configurations below, you can selectively access a specific modu
 
 **ESP(01011101)**
 
-![qt]([https://i.hizliresim.com/557p6ej.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw1.png?raw=true))
+![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw1.png?raw=true)
 
 
 **Default(10101101)**

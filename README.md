@@ -14,6 +14,11 @@ KeyHarpoon offers a reliable and open-source hardware foundation for cybersecuri
 
 By combining USB and wireless interfaces, this board opens the door to next-generation HID attacks and scripting capabilities, offering an easy-to-set-up and straightforward solution to integrate into your existing toolkit.
 
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 # 🚀 **Features**
@@ -118,6 +123,7 @@ With the switch configurations below, you can selectively access a specific modu
 
 
 **Atmega(10101010)**
+
 ![qt](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw3.png?raw=true)
 
 

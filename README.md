@@ -7,7 +7,7 @@ The motivation behind the project is to overcome the limitations of existing sim
 ![KeyHarpoon Demo](https://raw.githubusercontent.com/realQuackTech/Keyharpoon/refs/heads/main/images/introduce.gif)
 <br/>
 
-KeyHarpoon offers a reliable and open-source hardware foundation for cybersecurity professionals, IT personnel, developers, and security researchers, with capabilities such as USB HID injection, Wi-Fi-based control, and potential remote payload delivery. Thanks to its modular structure and clean codebase, this project is highly suitable for further development aimed at automation, red team operations, or learning USB attack vectors. Since the project supports the local language, it poses no compatibility issues in that regard.
+KeyHarpoon offers a reliable and open-source hardware foundation for cybersecurity professionals, IT personnel, developers and security researchers, with capabilities such as USB HID injection, Wi-Fi-based control, and potential remote payload delivery. Thanks to its modular structure and clean codebase, this project is highly suitable for further development aimed at automation, red team operations, or learning USB attack vectors. Since the project supports the local language, it poses no compatibility issues in that regard.
 <br/>
 
 By combining USB and wireless interfaces, this board opens the door to next-generation HID attacks and scripting capabilities, offering an easy-to-set-up and straightforward solution to integrate into your existing toolkit.

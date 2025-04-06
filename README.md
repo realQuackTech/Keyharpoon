@@ -6,7 +6,7 @@ This project is primarily built around the ATmega32 microcontroller and an ESP-b
 The motivation behind the project is to overcome the limitations of existing similar tools, such as being closed-source, lacking extensibility, or missing modern connectivity options.
 
 
-![KeyHarpoon Demo]([https://i.imgur.com/wWMmXAk.gif](https://github.com/realQuackTech/Keyharpoon/blob/main/images/introduce.gif?raw=true))
+![KeyHarpoon Demo]([[https://i.imgur.com/wWMmXAk.gif](https://github.com/realQuackTech/Keyharpoon/blob/main/images/introduce.gif?raw=true)](https://raw.githubusercontent.com/realQuackTech/Keyharpoon/refs/heads/main/images/introduce.gif))
 
 
 KeyHarpoon offers a reliable and open-source hardware foundation for cybersecurity professionals, IT personnel, developers, and security researchers, with capabilities such as USB HID injection, Wi-Fi-based control, and potential remote payload delivery. Thanks to its modular structure and clean codebase, this project is highly suitable for further development aimed at automation, red team operations, or learning USB attack vectors. Since the project supports the local language, it poses no compatibility issues in that regard.

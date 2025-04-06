@@ -6,7 +6,7 @@ This project is primarily built around the ATmega32 microcontroller and an ESP-b
 The motivation behind the project is to overcome the limitations of existing similar tools, such as being closed-source, lacking extensibility, or missing modern connectivity options.
 
 
-![KeyHarpoon Demo](https://i.imgur.com/wWMmXAk.gif)
+![KeyHarpoon Demo]([https://i.imgur.com/wWMmXAk.gif](https://github.com/realQuackTech/Keyharpoon/blob/main/images/introduce.gif?raw=true))
 
 
 KeyHarpoon offers a reliable and open-source hardware foundation for cybersecurity professionals, IT personnel, developers, and security researchers, with capabilities such as USB HID injection, Wi-Fi-based control, and potential remote payload delivery. Thanks to its modular structure and clean codebase, this project is highly suitable for further development aimed at automation, red team operations, or learning USB attack vectors. Since the project supports the local language, it poses no compatibility issues in that regard.
@@ -87,7 +87,7 @@ Through this interface, developers can:
 - Define custom startup behaviors tailored to the hardware.
 
 
-![ESP8266 Dev Board](https://i.hizliresim.com/kui9bvu.png)
+![ESP8266 Dev Board]([https://i.hizliresim.com/kui9bvu.png](https://raw.githubusercontent.com/realQuackTech/Keyharpoon/refs/heads/main/images/hardware.png))
 
 
 ### ESP8266 USB Communication
@@ -109,16 +109,16 @@ With the switch configurations below, you can selectively access a specific modu
 
 **ESP(01011101)**
 
-![qt](https://i.hizliresim.com/557p6ej.png)
+![qt]([https://i.hizliresim.com/557p6ej.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw1.png?raw=true))
 
 
 **Default(10101101)**
 
-![qt](https://i.hizliresim.com/nsnurf0.png)
+![qt]([https://i.hizliresim.com/nsnurf0.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw2.png?raw=true))
 
 
 **Atmega(10101010)**
-![qt](https://i.hizliresim.com/kf4ykqm.png)
+![qt]([https://i.hizliresim.com/kf4ykqm.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/sw3.png?raw=true))
 
 
 
@@ -202,7 +202,7 @@ The usage is quite simple and almost identical to similar counterparts. Here are
 
 
 
-![qt](https://i.hizliresim.com/7jcl0md.png)
+![qt]([https://i.hizliresim.com/7jcl0md.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/enter.png?raw=true))
 
 ### Note on Timing
 
@@ -212,14 +212,14 @@ If you wish to save your payload and set it for automatic execution, you can fin
 
 
 
-![qt](https://i.hizliresim.com/s5pia8f.png)
+![qt]([https://i.hizliresim.com/s5pia8f.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/file.png?raw=true))
 
 ## Settings Page
 
 
 
 
-![qt](https://i.hizliresim.com/m9ysv2o.png)
+![qt]([https://i.hizliresim.com/m9ysv2o.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/set.png?raw=true))
 
 
 ### 📡 OTA (Over The Air) Update Support
@@ -227,7 +227,7 @@ If you wish to save your payload and set it for automatic execution, you can fin
 With the OTA (Over The Air) option located in the top-right corner, you can enter your current SSID and password to log in.
 
 
-![qt](https://i.hizliresim.com/adpwncj.png)
+![qt]([https://i.hizliresim.com/adpwncj.png](https://github.com/realQuackTech/Keyharpoon/blob/main/images/ota.png?raw=true))
 
 The KeyHarpoon device has OTA (Over The Air) support through the ESP module. This allows you to easily update your device via a web interface without the need for any additional software.
 

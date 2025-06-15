@@ -283,7 +283,7 @@ For all these operations, you do not need to connect the device to your computer
 ### 📬 Contact / Support
 
 For any feedback, suggestions, or support requests, feel free to contact us:
-- 🌐 **Website**: [https://quacktech.tech](https://quacktech.tech)
+- 🌐 **Website**: [https://quacktech.tech](https://www.quacktech.tech)
 - 📧 **Email**: [contact-quacktech@proton.me](mailto:contact-quacktech@proton.me)
 - ☕ **Support us**: [https://buymeacoffee.com/quacktech](https://buymeacoffee.com/quacktech)
 <br/>

@@ -324,4 +324,4 @@ The following open-source libraries and community contributions were used during
 
 <br/>
 
-Additionally, the open-source contributions and documentation from the Arduino community have laid the foundation for this project.
+Additionally, the open-source contributions and documentation from the Arduino community have laid the foundation for this project!

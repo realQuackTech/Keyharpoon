@@ -283,7 +283,7 @@ For all these operations, you do not need to connect the device to your computer
 ### 📬 Contact / Support
 
 For any feedback, suggestions, or support requests, feel free to contact us:
-- 🌐 **Website**: [https://quacktech.tech](https://www.quacktech.tech)
+- 🌐 **Website**: [https://quacktech.tech](https://quacktech.tech)
 - 📧 **Email**: [contact-quacktech@proton.me](mailto:contact-quacktech@proton.me)
 - ☕ **Support us**: [https://buymeacoffee.com/quacktech](https://buymeacoffee.com/quacktech)
 <br/>
@@ -324,4 +324,4 @@ The following open-source libraries and community contributions were used during
 
 <br/>
 
-Additionally, the open-source contributions and documentation from the Arduino community have laid the foundation for this project.
+Additionally, the open-source contributions and documentation from the Arduino community have laid the foundation for this project!
